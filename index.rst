@@ -3,29 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MRI open course!
-============================================
-Hello word
+MRI Open Course
+===============
 
 .. toctree::
    :maxdepth: 2
-   :caption: Options:
+   :caption: MRI Theory
 
-   Options/justlogic
-   Options/justcode
-
+   mri-theory/mr-physics/index
+   mri-theory/image-acquisition/index
+   mri-theory/hardware/index
+   mri-theory/pulse-sequences/index
+   mri-theory/math/index
 
 .. toctree::
    :maxdepth: 2
-   :caption: Guidelines:
+   :caption: Low Field MRI
 
-   Guidelines/content
-   Options/workflow
+   low-field-mri/open-source-projects/index
+   low-field-mri/designs/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: MR Spectroscopy
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   mr-spectroscopy/index
