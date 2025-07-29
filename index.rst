@@ -2,10 +2,8 @@
 MRI Open Course
 ===============
 
-hello
-
 .. toctree::
-   :maxdepth: 2
-   :caption: MRI theory
+   :maxdepth: 1
+   :caption: Quick Test
 
-   mri-theory/mr-physics/index
+   test-page
