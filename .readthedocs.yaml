@@ -14,3 +14,7 @@ build:
 sphinx:
   configuration: conf.py   # Or docs/source/conf.py if you used separate source/build
 
+python:
+  install:
+    - requirements: requirements.txt
+
