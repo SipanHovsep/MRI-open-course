@@ -1,0 +1,5 @@
+sphinx>=7.2
+alabaster
+# add if used:
+myst-parser
+sphinx-rtd-theme
