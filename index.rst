@@ -7,4 +7,4 @@ MRI Open Course
    :caption: MRI Theory
    :numbered:
 
-   mri-theory/mr-physics/index
+   mri-theory/mr-physics
