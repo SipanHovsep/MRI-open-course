@@ -6,13 +6,13 @@ hello
 
 .. toctree::
    :maxdepth: 2
-   :caption: MRI Theory
+   :caption: MRI theory
 
-   mri-theory/mr-physics/index
-   mri-theory/image-acquisition/index
-   mri-theory/hardware/index
-   mri-theory/pulse-sequences/index
-   mri-theory/math/index
+   mri-theory/mr-physics/index|
+   mri-theory/image-acquisition/index|
+   mri-theory/hardware/index|
+   mri-theory/pulse-sequences/index|
+   mri-theory/math/index|
 
 .. toctree::
    :maxdepth: 2
