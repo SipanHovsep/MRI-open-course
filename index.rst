@@ -5,4 +5,4 @@ MRI Open Course
    :maxdepth: 2
    :caption: MRI Theory
    
-   mri-theory/hardware/index.rst
+   mri-theory/hardware/index
