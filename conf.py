@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Coding with Kids'
+project = 'MRI open course'
 copyright = '2025, Sipan Hovsepian'
 author = 'Sipan Hovsepian'
 
