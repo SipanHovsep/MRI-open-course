@@ -4,8 +4,17 @@
 # Required
 version: 2
 
-# Set the OS, Python version, and other tools you might need
+# Build environment
 build:
   os: ubuntu-24.04
   tools:
-    python: "3.13"
+    python: "3.13"   # If builds fail, try "3.12"
+
+# Tell RTD where your Sphinx conf.py is
+sphinx:
+  configuration: docs/conf.py   # Or docs/source/conf.py if you used separate source/build
+
+# Python deps for the docs build
+python:
+  install:
+    - requirements: docs/requirements.txt
