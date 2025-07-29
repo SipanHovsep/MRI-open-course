@@ -3,5 +3,6 @@ MRI Open Course
 
 .. toctree::
    :maxdepth: 2
-
-   getting-started
+   :caption: MRI Theory
+   
+   mri-theory/hardware/index.rst
