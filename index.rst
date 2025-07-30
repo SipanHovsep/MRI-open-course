@@ -6,3 +6,4 @@ MRI Open Course
    :caption: MRI Theory
    
    mri-theory/hardware/index
+   mri-theory/pulse-sequences/index
