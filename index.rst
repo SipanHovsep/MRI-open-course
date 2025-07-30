@@ -22,6 +22,6 @@ MRI Open Course
    :maxdepth: 2
    :caption: Low field MRI
 
-   low-field-mri/index
+   low-field-mri/open-source-projects/index
 
 

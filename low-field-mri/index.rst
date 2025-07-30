@@ -1,5 +1,5 @@
-Low field MRI
-=============
+Open source projects
+====================
 
 .. toctree::
    :maxdepth: 1
