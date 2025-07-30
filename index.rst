@@ -21,3 +21,5 @@ MRI Open Course
 .. toctree::
    :maxdepth: 2
    :caption: Low field MRI
+
+   low-field-mri/open-source-projects/index
