@@ -1,1 +1,2 @@
-spectroscopy
+MRI spectroscopy
+================
