@@ -10,6 +10,7 @@ MRI Open Course
    mri-theory/image-acquisition/index
    mri-theory/pulse-sequences/index
    mri-theory/math/index
+   mri-theory/useful_resources/index
 
 .. toctree::
    :maxdepth: 2
