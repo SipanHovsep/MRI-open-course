@@ -1,0 +1,4 @@
+Magnet
+======
+
+Design algorithm
