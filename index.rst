@@ -15,7 +15,7 @@ MRI Open Course
    :maxdepth: 2
    :caption: MR spectroscopy
 
-    mr-spectroscopy/index
+   mr-spectroscopy/index
 
 
 .. toctree::
