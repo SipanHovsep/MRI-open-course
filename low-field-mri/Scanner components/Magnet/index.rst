@@ -1,4 +1,7 @@
 Magnet
 ======
 
+title
+-----
+
 Design algorithm
