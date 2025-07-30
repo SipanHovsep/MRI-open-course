@@ -1,5 +1,8 @@
 Scanner components
 ==================
 
-title
------
+.. toctree::
+   :maxdepth: 2
+   :caption: Magnet
+
+   Magnet/index
