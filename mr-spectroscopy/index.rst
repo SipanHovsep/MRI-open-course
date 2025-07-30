@@ -1,2 +1,7 @@
-MRI spectroscopy
-================
+MRI Spectroscopy
+============
+
+Overview
+--------
+
+Spectroscopy
