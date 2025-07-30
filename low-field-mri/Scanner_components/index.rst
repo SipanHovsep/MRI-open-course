@@ -26,4 +26,4 @@ Scanner components
    :maxdepth: 2
    :caption: Gradient coils
 
-   Gradient_coils/index
+   Gradient_Coils/index

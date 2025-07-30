@@ -1,10 +1,10 @@
 Magnetic Field Mapping Robot
-============================
+=============================
 
 Below are concise overviews of notable open‑source MRI projects with back‑links.
 
 Project Overview
-----------------
+-----------------
 
 Low‑cost/modular Magnetic Field Mapping Robot
 
