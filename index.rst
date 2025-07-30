@@ -10,3 +10,12 @@ MRI Open Course
    mri-theory/image-acquisition/index
    mri-theory/pulse-sequences/index
    mri-theory/math/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: MR spectroscopy
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Low field MRI
