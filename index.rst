@@ -23,6 +23,6 @@ MRI Open Course
    :caption: Low field MRI
 
    low-field-mri/open-source-projects/index
-   low-field-mri/Scanner_components/Magnet/index
+   low-field-mri/Scanner_components/index
 
 
