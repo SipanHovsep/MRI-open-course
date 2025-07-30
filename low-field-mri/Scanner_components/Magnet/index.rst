@@ -1,5 +1,3 @@
-Magnet
-======
 
 Types of magnets
 ----------------
