@@ -57,10 +57,10 @@ However, they got the contrary they expected and exactly as Bohr's model predict
    <div style="display: flex; gap: 20px;">
 
 .. image:: images/expectation.png
-   :width: 80%
+   :width: 100%
 
 .. image:: images/reality.png
-   :width: 80%
+   :width: 100%
 
 .. raw:: html
 
@@ -71,7 +71,7 @@ which then later, would have become known as spin. The experiment was the first 
 and resulting magnetic moment are "quantized"
 
 
-.. image:: /images/result.png
+.. image:: images/result.png
 The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
 
 https://physicsworld.com/a/how-the-stern-gerlach-experiment-made-physicists-believe-in-quantum-mechanics/
