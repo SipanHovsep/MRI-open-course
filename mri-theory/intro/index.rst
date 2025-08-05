@@ -87,7 +87,7 @@ and resulting magnetic moment are "quantized"
 
 
 .. image:: images/result.png
-The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
+The image is taken from the Stanford Encyclopedia of Philosophy [1]_.
 
 
 .. admonition:: Nobel Prize
@@ -143,7 +143,46 @@ The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
          :alt: Nobel Prize medal
 
 
+
+Isidor's Rabi's extension of Stern-Gerlach experiment
+-----------------------------------------------------
+
+The most significant step laying the groundwork for "resonance" aspect of MRI and NMR (same R), was performed by Isidor Rabi at 1937.
+He modified the Stern-Gerlach setup by adding an oscillating magnetic field and showing that they are able to change the spins.
+Instead of silver atoms originally used by Stern-Gerlach, he used Lithium Chloride (LiCl). His contribution was adding a radiofrequency
+coil to modify the magnetic field and then observed that it led to change in observed proportions of spin up and down electrons on the
+photo plate.
+
+With this results he claimed that it would be possible to identify individual atoms by their characteristic pattern of resonant frequency.
+
+.. image:: images/rabi.png
+The image is taken from the Questions and Answers in MRI [2]_.
+
+The simple figure shows significant decrease in beam intensity at resonant frequency, which was achieved by controlling the
+amperage of radiofrequency coil (magnetic field induced by RF coil was proportional to current).
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+         The 1944 Nobel prize was awarded to Isidor Isaac Rabi "for his resonance method for recording the magnetic properties
+         of atomic nuclei".
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
+
+
+
+
+
+
 .. rubric:: References
 
-.. [SEP] Stanford Encyclopedia of Philosophy. *Physics Experiment, App 5*.
+.. [1] Stanford Encyclopedia of Philosophy. *Physics Experiment, App 5*.
    <https://plato.stanford.edu/entries/physics-experiment/app5.html>_
+.. [2] Questions and answers in MRI. *The discovery of NMR*.
+   <https://mriquestions.com/who-discovered-nmr.html>_
