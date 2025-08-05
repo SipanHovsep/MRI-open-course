@@ -1,24 +1,42 @@
-/* Container */
+/* Admonition look */
 .admonition.nobel {
-  border: 2px solid #f7c948;            /* yellow border */
-  background: #fffbe6;                  /* soft yellow background (optional) */
+  border: 2px solid #f7c948;         /* yellow */
+  background: #fffbe6;               /* soft yellow (optional) */
 }
 
-/* Title row */
+/* Center the title */
 .admonition.nobel > .admonition-title {
-  position: relative;
-  padding-left: 2.2rem;                 /* room for the icon */
-  font-weight: 600;
+  text-align: center;
+  font-weight: 700;
 }
 
-/* Medal icon in the title */
-.admonition.nobel > .admonition-title::before {
-  content: "";
-  position: absolute;
-  left: 0.6rem;
-  top: 50%;
-  width: 1.2rem;
-  height: 1.2rem;
-  transform: translateY(-50%);
-  background: url("Nobel_Prize.png") no-repeat center / contain;
+/* Layout: text + medal aligned at the bottom */
+.admonition.nobel .nobel-content {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-end;              /* medal sits at the bottom */
+}
+
+/* Let text take the remaining width */
+.admonition.nobel .nobel-text {
+  flex: 1 1 auto;
+}
+
+/* Big medal on the right */
+.admonition.nobel .nobel-medal {
+  width: 120px;                       /* adjust size as you like */
+  flex: 0 0 auto;
+  display: block;
+  margin: 0;
+}
+
+/* Mobile: stack nicely */
+@media (max-width: 700px) {
+  .admonition.nobel .nobel-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .admonition.nobel .nobel-medal {
+    width: 96px;
+  }
 }

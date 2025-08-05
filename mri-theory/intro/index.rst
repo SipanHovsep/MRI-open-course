@@ -25,9 +25,17 @@ few fundamental truths about the models.
 .. admonition:: Nobel Prize
    :class: nobel
 
-   Awarded in 2017 to Rainer Weiss, Barry C. Barish, and Kip S. Thorne for
-   decisive contributions to the LIGO detector and the observation of gravitational waves.
+   .. container:: nobel-content
 
+      .. container:: nobel-text
+
+         Awarded in 2017 to Rainer Weiss, Barry C. Barish, and Kip S. Thorne
+         for decisive contributions to the LIGO detector and the observation of
+         gravitational waves.
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
 
 Stern-Gerlach Experiment
 ^^^^^^^^^^^^^^^^^^^^^^^^
