@@ -57,20 +57,29 @@ However, they got the contrary they expected and exactly as Bohr's model predict
    <div style="display: flex; gap: 20px;">
 
 .. image:: images/expectation.png
-   :width: 45%
+   :width: 80%
 
 .. image:: images/reality.png
-   :width: 45%
+   :width: 80%
 
 .. raw:: html
 
    </div>
 
+As in 1922, the spin had not been discovered yet, they concluded their experiment with "Space Quantization" of angular momentum
+which then later, would have become known as spin. The experiment was the first to prove that on atomic level, angular momentum
+and resulting magnetic moment are "quantized"
+
+
+.. image:: /images/result.png
+The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
 
 https://physicsworld.com/a/how-the-stern-gerlach-experiment-made-physicists-believe-in-quantum-mechanics/
 https://plato.stanford.edu/entries/physics-experiment/app5.html
 https://www.youtube.com/watch?v=pcGIBacW-q0
 https://www.youtube.com/watch?v=PH1FbkLVJU4
+https://www.youtube.com/watch?v=QP3SfF9H1MY
+
 
 Classical view
 --------------
@@ -283,3 +292,11 @@ The line integral of :math:`\mathbf{B}` around a closed loop equals the enclosed
 .. math::
 
    \oint \mathbf{B}\cdot d\boldsymbol{\ell} = \mu_0\, I_{\text{enclosed}}.
+
+
+
+
+.. rubric:: References
+
+.. [SEP] Stanford Encyclopedia of Philosophy. *Physics Experiment, App 5*.
+   <https://plato.stanford.edu/entries/physics-experiment/app5.html>_
