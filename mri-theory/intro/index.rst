@@ -22,6 +22,12 @@ few fundamental truths about the models.
       “All models are wrong, but some are useful.”
       -- George E. P. Box
 
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   Awarded in 2017 to Rainer Weiss, Barry C. Barish, and Kip S. Thorne for
+   decisive contributions to the LIGO detector and the observation of gravitational waves.
+
 
 Stern-Gerlach Experiment
 ^^^^^^^^^^^^^^^^^^^^^^^^

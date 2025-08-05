@@ -1,0 +1,24 @@
+/* Container */
+.admonition.nobel {
+  border: 2px solid #f7c948;            /* yellow border */
+  background: #fffbe6;                  /* soft yellow background (optional) */
+}
+
+/* Title row */
+.admonition.nobel > .admonition-title {
+  position: relative;
+  padding-left: 2.2rem;                 /* room for the icon */
+  font-weight: 600;
+}
+
+/* Medal icon in the title */
+.admonition.nobel > .admonition-title::before {
+  content: "";
+  position: absolute;
+  left: 0.6rem;
+  top: 50%;
+  width: 1.2rem;
+  height: 1.2rem;
+  transform: translateY(-50%);
+  background: url("medal.svg") no-repeat center / contain;
+}
