@@ -60,3 +60,13 @@
 .admonition.quote > .admonition-title {
   padding-left: 0.6rem; /* or 0 */
 }
+
+.rst-content .admonition.quote > .admonition-title::before,
+.admonition.quote > .admonition-title::before {
+  display: none !important;
+  content: "" !important;
+}
+.rst-content .admonition.quote > .admonition-title,
+.admonition.quote > .admonition-title {
+  padding-left: 0.6rem !important; /* or 0 */
+}
