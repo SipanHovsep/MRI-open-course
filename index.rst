@@ -5,6 +5,7 @@ MRI Open Course
    :maxdepth: 2
    :caption: MRI Theory
 
+   mri-theory/intro/index
    mri-theory/mr-physics/index
    mri-theory/hardware/index
    mri-theory/image-acquisition/index
