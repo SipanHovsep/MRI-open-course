@@ -18,10 +18,13 @@ The learning journey would be accompanied by models and analogies, however, befo
 few fundamental truths about the models.
 
 .. admonition:: Quote
+   :class: quote
 
       “All models are wrong, but some are useful.”
-      -- George E. P. Box
 
+   .. container:: quote-attrib
+
+      — George E. P. Box
 
 .. admonition:: Quote
    :class: quote
