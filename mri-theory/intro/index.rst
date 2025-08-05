@@ -39,26 +39,18 @@ few fundamental truths about the models.
 
       — Richard P. Feynman
 
-.. admonition:: Nobel Prize
-   :class: nobel
 
-   .. container:: nobel-content
 
-      .. container:: nobel-text
+Historical precedings
+^^^^^^^^^^^^^^^^^^^^^
 
-         Awarded in 2017 to Rainer Weiss, Barry C. Barish, and Kip S. Thorne
-         for decisive contributions to the LIGO detector and the observation of
-         gravitational waves.
 
-      .. image:: /_static/Nobel_Prize.png
-         :class: nobel-medal
-         :alt: Nobel Prize medal
 
 Stern-Gerlach Experiment
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
-(Brilliant experimentally, wrong theoretically)
------------------------------------------------
+**(Brilliant experimentally, wrong theoretically)**
+
 
 
 Otto Stern "hated" Bohr's model so much (Calling it Bohr's nonsence) that he set up an experiment to prove it wrong.
@@ -97,11 +89,58 @@ and resulting magnetic moment are "quantized"
 .. image:: images/result.png
 The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
 
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+         The 1943 Nobel prize was awarded to Otto Stern "for
+         his contribution to the development of the molecular ray method
+         and his discovery of the magnetic moment of the proton"
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
+
+
+
 https://physicsworld.com/a/how-the-stern-gerlach-experiment-made-physicists-believe-in-quantum-mechanics/
 https://plato.stanford.edu/entries/physics-experiment/app5.html
 https://www.youtube.com/watch?v=pcGIBacW-q0
 https://www.youtube.com/watch?v=PH1FbkLVJU4
 https://www.youtube.com/watch?v=QP3SfF9H1MY
+
+
+
+
+Pauli Exclusion Principle
+-------------------------
+
+Pauli came up with the idea of two possible values of the spin of the electrons: "spin up" or "spin down", and further
+formulated that two electrons can't have the same spin values, known as Pauli exclusion principle.
+
+
+.. image:: images/result.png
+The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
+
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+         The 1945 Nobel prize was awarded to Wolfgang Pauli for discovery of
+         the exclusion principle: a fundamental principle in quantum mechanics, stating
+         that no two electrons in an atom can have the same set of quantum numbers.
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
 
 
 .. rubric:: References
