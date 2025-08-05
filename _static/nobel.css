@@ -47,3 +47,16 @@
     width: 96px;
   }
 }
+
+
+/* Hide the default "!" icon for the Quote admonition */
+.admonition.quote > .admonition-title::before {
+  content: none !important;
+  background: none !important;
+  display: none !important;
+}
+
+/* (optional) reclaim left padding reserved for the icon */
+.admonition.quote > .admonition-title {
+  padding-left: 0.6rem; /* or 0 */
+}
