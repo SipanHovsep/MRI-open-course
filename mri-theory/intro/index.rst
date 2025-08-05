@@ -22,6 +22,20 @@ few fundamental truths about the models.
       “All models are wrong, but some are useful.”
       -- George E. P. Box
 
+
+.. admonition:: Quote
+   :class: quote
+
+   Imagine that … the world is something like a great chess game being played by the gods, and we are observers of the game.
+   … If we watch long enough, we may eventually catch on to a few of the rules…. However, we might not be able to understand
+   why a particular move is made in the game, merely because it is too complicated and our minds are limited….
+   We must limit ourselves to the more basic question of the rules of the game.
+   If we know the rules, we consider that we “understand” the world.
+
+   .. container:: quote-attrib
+
+      — Richard P. Feynman
+
 .. admonition:: Nobel Prize
    :class: nobel
 
