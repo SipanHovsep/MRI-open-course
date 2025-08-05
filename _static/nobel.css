@@ -10,11 +10,18 @@
   font-weight: 700;
 }
 
+.admonition.nobel > .admonition-title::before {
+  content: none !important;
+  background: none !important;
+  display: none !important;
+}
+
+
 /* Layout: text + medal aligned at the bottom */
 .admonition.nobel .nobel-content {
   display: flex;
   gap: 1rem;
-  align-items: flex-end;              /* medal sits at the bottom */
+  align-items: center;              /* medal sits at the bottom */
 }
 
 /* Let text take the remaining width */
