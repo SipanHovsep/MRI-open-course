@@ -1,9 +1,6 @@
 Course Introduction
 ===================
 
-
-
-
 The role of models in learning MRI
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
