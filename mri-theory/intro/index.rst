@@ -19,7 +19,8 @@ few fundamental truths about the models.
 
 .. admonition:: Quote
 
-   “All models are wrong but some are useful”
+      “All models are wrong, but some are useful.”
+      -- George E. P. Box
 
 
 Stern-Gerlach Experiment
