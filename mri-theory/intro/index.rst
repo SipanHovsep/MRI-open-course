@@ -123,8 +123,6 @@ Pauli came up with the idea of two possible values of the spin of the electrons:
 formulated that two electrons can't have the same spin values, known as Pauli exclusion principle.
 
 
-.. image:: images/result.png
-The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
 
 
 .. admonition:: Nobel Prize
@@ -143,9 +141,11 @@ The image is taken from the Stanford Encyclopedia of Philosophy [SEP]_.
          :alt: Nobel Prize medal
 
 
+The Birth of Nuclear Magnetic Resonance: NMR
+--------------------------------------------
 
-Isidor's Rabi's extension of Stern-Gerlach experiment
------------------------------------------------------
+**Isidor's Rabi's extension of Stern-Gerlach experiment**
+
 
 The most significant step laying the groundwork for "resonance" aspect of MRI and NMR (same R), was performed by Isidor Rabi at 1937.
 He modified the Stern-Gerlach setup by adding an oscillating magnetic field and showing that they are able to change the spins.
@@ -176,8 +176,64 @@ amperage of radiofrequency coil (magnetic field induced by RF coil was proportio
          :alt: Nobel Prize medal
 
 
+Rabi also became the first to use the term Nuclear Magnetic Resonance (NMR), which then became irreplacable technique in chemistry to understand
+molecular structures.
+
+In simpler terms the idea of magnetic resonance or resonance phenomenon in general, can be explained using a simpler analogy from
+*Home Alone* movie.
+
+.. image:: images/home_alone.png
+
+When the same question is asked by the villain, Kevin gives no response, because the Villain's voice is different than a trusted
+person, such as mother, to whom he gives a response. As the frequency is fundamental characteristics of the voice, we can tell that ``wrong frequency`` led ``no response``.
+And similarly, when the mother "generates" the ``right frequency`` a ``response is received``.
 
 
+
+Moving from isolated gas-phase atoms to solids and liquids (bulk material)
+--------------------------------------------------------------------------
+
+Magnetic resonance in individual atoms was already quite fascinating phenomenon, but not of quite applicability, as in daily life
+we dont come across with individual atoms. Thus it was important to test on bulk matter (liquids, solids) and understand whether the same
+phenomenon applies on macroscopic levels or not.
+
+The same experiment was independently done by Felix Bloch (Standford University) and Edward Mills Purcell at MIT, where they did the experiment
+with Water (Purcell's group) and paraffin (Bloch's group).
+
+.. raw:: html
+
+   <div style="display: flex; gap: 20px;">
+
+.. image:: images/Purcell.png
+   :width: 100%
+
+.. image:: images/Bloch.png
+   :width: 100%
+
+.. raw:: html
+
+   </div>
+
+The image is taken from the Questions and Answers in MRI [2]_.
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+         The 1952 Nobel prize was awarded to jointly to Felix Felix Bloch
+         and Edward Mills Purcell "for their development of new methods for
+         nuclear magnetic precision measurements and discoveries in connection therewith"
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
+
+Its worth to appreciate the simplicity of design featured in Bloch's notebook, which featured Nobel Prize winning research.
+
+.. image:: images/Notebook.png
 
 
 .. rubric:: References
