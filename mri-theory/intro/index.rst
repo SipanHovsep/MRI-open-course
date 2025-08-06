@@ -271,6 +271,13 @@ lines, corresponding to the resonant frequencies of the :math:`^{1}\mathrm{H}` n
 
 The section is taken from the Youtube video [3]_.
 
+Below is the same spectrum of ethanol taken by a modern NRM machine. We can appreciate the relative accuracy of the
+non-commercial lab NMR scanner they used in 50s.
+
+.. image:: image/modern.png
+
+The image is taken from the Benchtop thoughts [5]_.
+
 Moreover, the relative intensities of the three signals corresponded with the number of protons
 in each different chemical environment. So it was possible not only to identify different
 molecular fragments but also to glean quantitative information about the number of equivalent
@@ -280,6 +287,43 @@ nuclei in each.
 
 The section is taken from the Nature Physics [4]_.
 
+
+
+
+From theory to practice: first NMR machine
+------------------------------------------
+
+The first commercially available NMR:  F6 Nuclear FLuxmeter was introduced in 1949, and produced by Varian Associates.
+
+.. image:: images/first.png
+
+The image is taken from the Benchtop thoughts [5]_.
+
+However, the initial design had significant engineering limitations as  NMR data was acquired by scanning a sample across
+a broad range of radio frequencies (RF), in sequence, over and over, until enough signal was obtained to be useful.
+This technique, called continuous wave or ``CW-NMR`` was a time-consuming process, taking several minutes to scan a
+single time; dozens, hundreds, or even thousands of scans can be required to resolve a sample.
+
+
+A solution was proposed by Ernst and Anderson, laid the ground work for ``FT-NMR``, by using short RF pulses to excite
+the whole band, recording the *time-domain* FID, and applying a Fourier transform to recover the full spectrum in
+*frequency domain*, an approach that, with improving computers, quickly made CW-NMR redundant.
+
+.. image:: FT.png
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+        The Nobel Prize in Chemistry 1991 was awarded to Richard R. Ernst "for his contributions to the development of
+        the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy"
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
 
 .. rubric:: References
 
@@ -291,3 +335,5 @@ The section is taken from the Nature Physics [4]_.
    <https://www.youtube.com/watch?v=QP3SfF9H1MY>_
 .. [4] Nature Physics. *A shift in expectations*.
    <https://www.nature.com/articles/milespin10>_
+.. [5] Benchtop Thoughts. *The End of an Era: Varian and the Birth and Growth of NMR*.
+   <https://unemployedchemist.wordpress.com/2014/10/17/the-end-of-an-era-varian-and-the-birth-and-growth-of-nmr/>_
