@@ -360,7 +360,11 @@ A reader fascinated by by MRI, may found it strange that up to now, we have not 
 attention to NMR. However, a close look into the letters may reveal that they share same *Magnetic Resonance* part, with
 only difference being ``nuclear`` swapped with ``imaging``.
 
-.. video:: images/Damadian_NMR=MRI.mp4
+.. image:: images/MRINMR.png
+
+
+
+
 
 
 .. rubric:: References
