@@ -353,8 +353,14 @@ A modern NMR scanner's picture is given below:
 .. image:: images/bruker.jpeg
 
 
+From NMR to MRI
+---------------
 
+A reader fascinated by by MRI, may found it strange that up to now, we have not spoken about MRI, rather game much
+attention to NMR. However, a close look into the letters may reveal that they share same *Magnetic Resonance* part, with
+only difference being ``nuclear`` swapped with ``imaging``.
 
+.. video:: images/Damadian_NMR=MRI.mp4
 
 
 .. rubric:: References
