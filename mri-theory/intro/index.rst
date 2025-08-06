@@ -367,6 +367,73 @@ thus a more *friendly* word was chosen: Imaging, keeping the core of **Magnetic 
 
 
 
+Early *in-vivo* hopes: Damadian’s relaxation times
+--------------------------------------------------
+
+Raymond Damadian noticed that malignant tissue had markedly longer **T₁ and T₂**
+values than healthy tissue (Science, 1971).
+
+.. image:: images/damadian.png
+
+He envisioned a body-scanner that would read out these quantitative differences,
+much like “NMR applied to people,” and patented the idea in 1974.
+
+.. image:: images/damadian_apparatus.png
+
+His prototype *Indomitable* proved it could detect the human NMR signal, but its
+single-voxel readout still lacked true imaging capability.
+
+.. image:: images/Indomitable.jpg
+
+Long reads deserve short breaks—and what’s better than a quick gym burst? Legend has it Damadian missed
+being the first human scanned because he didn’t fit the early rig. His grad student slid in and made history.
+Moral: lift now, learn sharper later.
+
+.. image:: images/gym_motivation.png
+
+.. image:: images/damadian_first.png
+
+Adding space: Lauterbur’s gradient coils
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Paul Lauterbur supplied the missing ingredient—**gradients**.
+By superimposing a weak, linear magnetic-field gradient on the main field,
+the Larmor frequency became a function of position. Recording several gradient
+orientations and applying a back-projection reconstruction (analogous to CT),
+he produced the first 2-D NMR images (Nature, 1973).
+
+.. image:: images/lautebur_tubes.jpeg
+   :alt: Lauterbur’s two-tube phantom, 1973
+
+
+.. admonition:: Nobel Prize
+   :class: nobel
+
+   .. container:: nobel-content
+
+      .. container:: nobel-text
+
+        The Nobel Prize in Physiology or Medicine 2003 was awarded jointly to
+        Paul C. Lauterbur and Sir Peter Mansfield "for their discoveries concerning magnetic resonance imaging"
+
+      .. image:: /_static/Nobel_Prize.png
+         :class: nobel-medal
+         :alt: Nobel Prize medal
+
+
+Lauterbur called the method *zeugmatography*; the term **magnetic resonance
+imaging (MRI)** soon replaced it.
+
+Fast imaging and the road to the clinic
+---------------------------------------
+
+Peter Mansfield (1977) adapted Fourier techniques and echo-planar readouts,
+slashing acquisition times from minutes to seconds, while industry teams
+scaled up superconducting magnets and gradient amplifiers.
+By the early 1980s clinical whole-body MRI was a reality, combining Damadian’s
+diagnostic vision with Lauterbur-Mansfield spatial encoding.
+
+
 
 
 .. rubric:: References
