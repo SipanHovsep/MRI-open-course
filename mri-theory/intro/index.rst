@@ -358,7 +358,9 @@ From NMR to MRI
 
 A reader fascinated by by MRI, may found it strange that up to now, we have not spoken about MRI, rather game much
 attention to NMR. However, a close look into the letters may reveal that they share same *Magnetic Resonance* part, with
-only difference being ``nuclear`` swapped with ``imaging``.
+only difference being ``nuclear`` swapped with ``imaging``. As the MRI was intended for hospitals for human patients,
+the marketers thought of dropping the word ``nuclear`` to mitigate the fear and wrong association with nuclear radiation,
+thus a more *friendly* word was chosen: Imaging, keeping the core of **Magnetic Resonance** the same.
 
 .. image:: images/MRINMR.png
 
