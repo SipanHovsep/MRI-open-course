@@ -304,6 +304,10 @@ a broad range of radio frequencies (RF), in sequence, over and over, until enoug
 This technique, called continuous wave or ``CW-NMR`` was a time-consuming process, taking several minutes to scan a
 single time; dozens, hundreds, or even thousands of scans can be required to resolve a sample.
 
+Two solutions were proposed to tackle this issue:
+
+First solution: Fourier Transform NMR
+-------------------------------------
 
 A solution was proposed by Ernst and Anderson, laid the ground work for ``FT-NMR``, by using short RF pulses to excite
 the whole band, recording the *time-domain* FID, and applying a Fourier transform to recover the full spectrum in
@@ -324,6 +328,34 @@ the whole band, recording the *time-domain* FID, and applying a Fourier transfor
       .. image:: /_static/Nobel_Prize.png
          :class: nobel-medal
          :alt: Nobel Prize medal
+
+Second solution: Superconducting Magnets
+----------------------------------------
+
+Early NMR used copper or iron-core solenoids that gave only semi-uniform fields and were limited by coil resistance,
+heat, power draw, and iron’s magnetic saturation. Stronger fields promised higher resolution and faster scans, but
+pushing more current just worsened heating. Superconductors (known since 1911) offered a fix: replace iron-core magnets
+with superconducting coils and scale up by building larger coils. The catch was cryogenics—keeping coils at
+\~4 K in liquid helium inside a liquid-nitrogen dewar—an engineering hurdle first solved commercially in 1964 with
+Varian’s HR-200.
+
+.. image:: images/superconducting.png
+
+
+
+Combination of both solutions
+-----------------------------
+ Combination of Fourier Transform and advances in superconducting magnets, paved the way for modern high-field
+NMR scanner, which can reach to 28T, bypassing the constraints of resistive and permanent magnets.
+
+A modern NMR scanner's picture is given below:
+
+.. image:: images/bruker.jpeg
+
+
+
+
+
 
 .. rubric:: References
 
