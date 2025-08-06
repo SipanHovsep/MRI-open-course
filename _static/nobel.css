@@ -70,3 +70,7 @@
 .admonition.quote > .admonition-title {
   padding-left: 0.6rem !important; /* or 0 */
 }
+
+.wy-nav-content {
+  max-width: 100% !important;   /* or 1100px / 70rem etc. */
+}

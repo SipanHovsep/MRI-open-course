@@ -269,7 +269,7 @@ lines, corresponding to the resonant frequencies of the :math:`^{1}\mathrm{H}` n
 
 .. image:: images/ethanol.png
 
-The section is taken from the Youtube video [4]_.
+The section is taken from the Youtube video [3]_.
 
 Moreover, the relative intensities of the three signals corresponded with the number of protons
 in each different chemical environment. So it was possible not only to identify different
@@ -278,7 +278,7 @@ nuclei in each.
 
 
 
-The section is taken from the Nature Physics [3]_.
+The section is taken from the Nature Physics [4]_.
 
 
 .. rubric:: References
@@ -287,7 +287,7 @@ The section is taken from the Nature Physics [3]_.
    <https://plato.stanford.edu/entries/physics-experiment/app5.html>_
 .. [2] Questions and answers in MRI. *The discovery of NMR*.
    <https://mriquestions.com/who-discovered-nmr.html>_
-.. [3] Nature Physics. *A shift in expectations*.
-   <https://www.nature.com/articles/milespin10>_
-.. [4] University of Michigan — BIOPHYS 520. *Nuclear Magnetic Resonance (NMR): History* (2016).
+.. [3] University of Michigan — BIOPHYS 520. *Nuclear Magnetic Resonance (NMR): History* (2016).
    <https://www.youtube.com/watch?v=QP3SfF9H1MY>_
+.. [4] Nature Physics. *A shift in expectations*.
+   <https://www.nature.com/articles/milespin10>_
