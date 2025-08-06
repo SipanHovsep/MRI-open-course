@@ -309,7 +309,7 @@ A solution was proposed by Ernst and Anderson, laid the ground work for ``FT-NMR
 the whole band, recording the *time-domain* FID, and applying a Fourier transform to recover the full spectrum in
 *frequency domain*, an approach that, with improving computers, quickly made CW-NMR redundant.
 
-.. image:: FT.png
+.. image:: images/FT.png
 
 .. admonition:: Nobel Prize
    :class: nobel
