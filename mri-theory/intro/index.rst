@@ -236,9 +236,58 @@ Its worth to appreciate the simplicity of design featured in Bloch's notebook, w
 .. image:: images/Notebook.png
 
 
+
+The Chemical Shift Revolution: How 1950s NMR Crossed into Chemistry
+-------------------------------------------------------------------
+
+Until 1950s only physicists were interested in NMR, because they believed that resonance frequency depends ``only`` on the strength
+of the magnetic field, therefore it could `` only`` be used to precisely measure the magnetic moments of different nuclei.
+
+An "unintentional" new revolution happened when Warren Proctor and Fu Chun Yu used ammonium nitrate (NH4NO3) to measure magnetic moment of
+Nitrogen. Having 2 nitrogen (one in Ammonia and the other in Nitrate), they expected to get a single, stronger signal from the Nitrogen.
+
+.. image:: images/ammonium_nitrate.png
+
+In what they described as a “surprising observation”, however, not one but two resonance
+frequencies were detected — one for the nitrogen nuclei in the ammonium
+:math:`\mathrm{NH_4^+}` ions and the other for those in the nitrate :math:`\mathrm{NO_3^-}` ions.
+
+
+This was the first reported observation of the phenomenon that soon became known as ``chemical shift``,
+in which the local chemical environment surrounding a nucleus influences the frequency at which it resonates.
+
+In 1951, a group of researchers from Stanford University showed that different
+:math:`^{1}\mathrm{H}` nuclei in the same molecule resonate at different frequencies.
+
+James Arnold, Srinivas Dharmatti and Martin Packard demonstrated the huge potential of
+NMR spectroscopy by applying the technique to ethanol (:math:`\mathrm{CH_3CH_2OH}`),
+a compound in which each molecule comprises three sets of non-equivalent
+:math:`^{1}\mathrm{H}` nuclei. Using tiny sample volumes and placing them in the most
+uniform region within a magnetic field, they obtained a spectrum displaying three separate
+lines, corresponding to the resonant frequencies of the :math:`^{1}\mathrm{H}` nuclei in the
+:math:`\mathrm{CH_3}`, :math:`\mathrm{CH_2}` and :math:`\mathrm{OH}` groups, respectively.
+
+.. image:: images/ethanol.png
+
+The section is taken from the Youtube video [4]_.
+
+Moreover, the relative intensities of the three signals corresponded with the number of protons
+in each different chemical environment. So it was possible not only to identify different
+molecular fragments but also to glean quantitative information about the number of equivalent
+nuclei in each.
+
+
+
+The section is taken from the Nature Physics [3]_.
+
+
 .. rubric:: References
 
 .. [1] Stanford Encyclopedia of Philosophy. *Physics Experiment, App 5*.
    <https://plato.stanford.edu/entries/physics-experiment/app5.html>_
 .. [2] Questions and answers in MRI. *The discovery of NMR*.
    <https://mriquestions.com/who-discovered-nmr.html>_
+.. [3] Nature Physics. *A shift in expectations*.
+   <https://www.nature.com/articles/milespin10>_
+.. [4] University of Michigan — BIOPHYS 520. *Nuclear Magnetic Resonance (NMR): History* (2016).
+   <https://www.youtube.com/watch?v=QP3SfF9H1MY>_
