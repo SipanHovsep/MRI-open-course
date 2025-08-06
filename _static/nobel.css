@@ -71,10 +71,24 @@
   padding-left: 0.6rem !important; /* or 0 */
 }
 
-.wy-nav-content {
-  max-width: 100% !important;   /* or 1100px / 70rem etc. */
+.wy-nav-content { max-width: 100% !important; }
+
+/* 2) Center a readable column for all page content */
+.rst-content {
+  max-width: 85ch;          /* adjust: e.g., 70ch–95ch */
+  margin: 0 auto;           /* centers the column */
+  padding: 0 1rem;          /* small side padding */
 }
 
-.rst-content {
-  max-width: 85ch;              /* tweak or remove if you want full-width text */
+/* 3) Center figures/images and keep them inside the column */
+.rst-content .figure,
+.rst-content img {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
 }
+
+/* 4) (optional) center captions */
+.rst-content .caption,
+.rst-content .figure .caption { text-align: center; }
