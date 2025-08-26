@@ -72,17 +72,18 @@ However, they got the contrary they expected and exactly as Bohr's model predict
 
 .. raw:: html
 
-   <div style="display: flex; gap: 20px;">
+   <div style="display: flex; gap: 20px; justify-content: center;">
 
-.. figure:: images/expectation.png
-   :alighn: center
+.. image:: images/expectation.png
+   :width: 45%
 
-.. figure:: images/reality.png
-   :align: center
+.. image:: images/reality.png
+   :width: 45%
 
 .. raw:: html
 
    </div>
+
 
 As in 1922, the spin had not been discovered yet, they concluded their experiment with "Space Quantization" of angular momentum
 which then later, would have become known as spin. The experiment was the first to prove that on atomic level, angular momentum
@@ -162,8 +163,9 @@ photo plate.
 
 With this results he claimed that it would be possible to identify individual atoms by their characteristic pattern of resonant frequency.
 
-.. image:: images/rabi.png
-The image is taken from the Questions and Answers in MRI [2]_.
+.. figure:: images/rabi.png
+    :align: center
+    The image is taken from the Questions and Answers in MRI [2]_.
 
 The simple figure shows significant decrease in beam intensity at resonant frequency, which was achieved by controlling the
 amperage of radiofrequency coil (magnetic field induced by RF coil was proportional to current).
@@ -189,7 +191,8 @@ molecular structures.
 In simpler terms the idea of magnetic resonance or resonance phenomenon in general, can be explained using a simpler analogy from
 *Home Alone* movie.
 
-.. image:: images/home_alone.png
+.. figure:: images/home_alone.png
+    :align: center
 
 When the same question is asked by the villain, Kevin gives no response, because the Villain's voice is different than a trusted
 person, such as mother, to whom he gives a response. As the frequency is fundamental characteristics of the voice, we can tell that ``wrong frequency`` led ``no response``.
@@ -240,7 +243,8 @@ The image is taken from the Questions and Answers in MRI [2]_.
 
 Its worth to appreciate the simplicity of design featured in Bloch's notebook, which featured Nobel Prize winning research.
 
-.. image:: images/Notebook.png
+.. figure:: images/Notebook.png
+    :align: center
 
 
 
@@ -253,7 +257,8 @@ of the magnetic field, therefore it could `` only`` be used to precisely measure
 An "unintentional" new revolution happened when Warren Proctor and Fu Chun Yu used ammonium nitrate (NH4NO3) to measure magnetic moment of
 Nitrogen. Having 2 nitrogen (one in Ammonia and the other in Nitrate), they expected to get a single, stronger signal from the Nitrogen.
 
-.. image:: images/ammonium_nitrate.png
+.. figure:: images/ammonium_nitrate.png
+    :align: center
 
 In what they described as a “surprising observation”, however, not one but two resonance
 frequencies were detected — one for the nitrogen nuclei in the ammonium
@@ -274,14 +279,16 @@ uniform region within a magnetic field, they obtained a spectrum displaying thre
 lines, corresponding to the resonant frequencies of the :math:`^{1}\mathrm{H}` nuclei in the
 :math:`\mathrm{CH_3}`, :math:`\mathrm{CH_2}` and :math:`\mathrm{OH}` groups, respectively.
 
-.. image:: images/ethanol.png
+.. figure:: images/ethanol.png
+    :align: center
 
 The section is taken from the Youtube video [3]_.
 
 Below is the same spectrum of ethanol taken by a modern NRM machine. We can appreciate the relative accuracy of the
 non-commercial lab NMR scanner they used in 50s.
 
-.. image:: image/modern.png
+.. figure:: image/modern.png
+    :align: center
 
 The image is taken from the Benchtop thoughts [5]_.
 
@@ -302,7 +309,8 @@ From theory to practice: first NMR machine
 
 The first commercially available NMR:  F6 Nuclear FLuxmeter was introduced in 1949, and produced by Varian Associates.
 
-.. image:: images/first.png
+.. figure:: images/first.png
+    :align: center
 
 The image is taken from the Benchtop thoughts [5]_.
 
@@ -320,7 +328,8 @@ A solution was proposed by Ernst and Anderson, laid the ground work for ``FT-NMR
 the whole band, recording the *time-domain* FID, and applying a Fourier transform to recover the full spectrum in
 *frequency domain*, an approach that, with improving computers, quickly made CW-NMR redundant.
 
-.. image:: images/FT.png
+.. figure:: images/FT.png
+    :align: center
 
 .. admonition:: Nobel Prize
    :class: nobel
@@ -346,7 +355,8 @@ with superconducting coils and scale up by building larger coils. The catch was 
 \~4 K in liquid helium inside a liquid-nitrogen dewar—an engineering hurdle first solved commercially in 1964 with
 Varian’s HR-200.
 
-.. image:: images/superconducting.png
+.. figure:: images/superconducting.png
+    :align: center
 
 
 
@@ -357,7 +367,10 @@ NMR scanner, which can reach to 28T, bypassing the constraints of resistive and 
 
 A modern NMR scanner's picture is given below:
 
-.. image:: images/bruker.jpeg
+.. figure:: images/bruker.jpeg
+    :align: center
+
+    Modern NMR machine
 
 
 From NMR to MRI
@@ -369,7 +382,8 @@ only difference being ``nuclear`` swapped with ``imaging``. As the MRI was inten
 the marketers thought of dropping the word ``nuclear`` to mitigate the fear and wrong association with nuclear radiation,
 thus a more *friendly* word was chosen: Imaging, keeping the core of **Magnetic Resonance** the same.
 
-.. image:: images/MRINMR.png
+.. figure:: images/MRINMR.png
+    :align: center
 
 
 
@@ -380,25 +394,30 @@ Early *in-vivo* hopes: Damadian’s relaxation times
 Raymond Damadian noticed that malignant tissue had markedly longer **T₁ and T₂**
 values than healthy tissue (Science, 1971).
 
-.. image:: images/damadian.png
+.. figure:: images/damadian.png
+    :align: center
 
 He envisioned a body-scanner that would read out these quantitative differences,
 much like “NMR applied to people,” and patented the idea in 1974.
 
-.. image:: images/damadian_apparatus.png
+.. figure:: images/damadian_apparatus.png
+    :align: center
 
 His prototype *Indomitable* proved it could detect the human NMR signal, but its
 single-voxel readout still lacked true imaging capability.
 
-.. image:: images/Indomitable.jpg
+.. figure:: images/Indomitable.jpg
+    :align: center
 
 Long reads deserve short breaks—and what’s better than a quick gym burst? Legend has it Damadian missed
 being the first human scanned because he didn’t fit the early rig. His grad student slid in and made history.
 Moral: lift now, learn sharper later.
 
-.. image:: images/gym_motivation.png
+.. figure:: images/gym_motivation.png
+    :align: center
 
-.. image:: images/damadian_first.png
+.. figure:: images/damadian_first.png
+    :align: center
 
 Adding space: Lauterbur’s gradient coils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -409,8 +428,10 @@ the Larmor frequency became a function of position. Recording several gradient
 orientations and applying a back-projection reconstruction (analogous to CT),
 he produced the first 2-D NMR images (Nature, 1973).
 
-.. image:: images/lautebur_tubes.jpeg
-   :alt: Lauterbur’s two-tube phantom, 1973
+.. figure:: images/lautebur_tubes.jpeg
+    :align: center
+
+    Lauterbur’s two-tube phantom, 1973
 
 
 .. admonition:: Nobel Prize
