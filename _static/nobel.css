@@ -92,20 +92,3 @@
 /* 4) (optional) center captions */
 .rst-content .caption,
 .rst-content .figure .caption { text-align: center; }
-
-
-@import url('https://cdn.jsdelivr.net/npm/computer-modern-web-font@1.0.0/css/cmun-serif.css');
-
-body {
-  font-family: "Computer Modern Serif", serif;
-}
-
-code, pre {
-  font-family: "Computer Modern Typewriter", monospace;
-}
-
-
-body {
-  font-size: 18px;   /* default is ~16px */
-  line-height: 1.6;  /* make it airy */
-}
