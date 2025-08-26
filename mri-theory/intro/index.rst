@@ -87,7 +87,7 @@ and resulting magnetic moment are "quantized"
 
 
 .. figure:: images/result.png
-    : :align: center
+    :align: center
 
     The image is taken from the Stanford Encyclopedia of Philosophy [1]_.
 
