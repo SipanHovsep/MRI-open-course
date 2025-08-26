@@ -103,3 +103,9 @@ body {
 code, pre {
   font-family: "Computer Modern Typewriter", monospace;
 }
+
+
+body {
+  font-size: 18px;   /* default is ~16px */
+  line-height: 1.6;  /* make it airy */
+}
