@@ -13,12 +13,14 @@ Trying to understand the Spin
 ------------------------------
 
 \- *What is spinning?*
-\- Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
 
-\- Therefore, a conclusion can be made that Spin is Emergent property.
+    Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
+
+    Therefore, a conclusion can be made that Spin is Emergent property.
 
 \- *Why electrons can’t spin?*
-\- Because electrons are fundamental particles, thus they are not made up of any smaller particles. For spinning we need group of particles, therefore electron can’t spin.
+
+    Because electrons are fundamental particles, thus they are not made up of any smaller particles. For spinning we need group of particles, therefore electron can’t spin.
 
 \- *Why its hard to imagine?*
 \- Because we live in macroscopic world and even the smallest particle we imagine, is still made up of smaller particles.
