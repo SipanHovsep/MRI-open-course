@@ -1,17 +1,7 @@
 MR Physics Fundamentals
 =======================
 
-Core topics
------------
-- Spin magnetic moment, gyromagnetic ratio, Larmor precession
-- Net magnetization & equilibrium (:math:`M_0`)
-- Bloch equations (precession + :math:`T_1, T_2` relaxation)
-- Relaxation mechanisms: :math:`T_1, T_2, T_2^*`, proton density
-- Chemical shift & J‑coupling fundamentals
-- Susceptibility effects, :math:`B_0` inhomogeneity
-- Diffusion & perfusion (Brownian motion, ADC)
-- Magnetization transfer & chemical exchange (CEST)
-- Signal equation, SNR & scaling laws
+
 
 .. epigraph::
 
@@ -19,8 +9,44 @@ Core topics
 
 
 
-History and phenomenon of magnetic resonance
---------------------------------------------
+Trying to understand the Spin
+------------------------------
+
+*What is spinning?*
+Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
+
+Therefore, a conclusion can be made that Spin is Emergent property.
+
+*Why electrons can’t spin?*
+Because electrons are fundamental particles, thus they are not made up of any smaller particles. For spinning we need group of particles, therefore electron can’t spin.
+
+*Why its hard to imagine?*
+Because we live in macroscopic world and even the smallest particle we imagine, is still made up of smaller particles.
+
+*Then if they don’t spin, why we still think in terms of spinning?*
+Because magnetism arises from moving charge, and if we had a group of charged particles spinning on their own axis we would observe a similar magnetic moment as single electron possesses.
+
+*Then why we don’t call that property a “quantum magnet”?*
+
+Because there is additional property which is also unique to spinning:
+
+Take a tabletop, which would instantly fall if placed vertically without spinning, however, once it spins, it resists the turning forces (or torques), while performing special motion called precession. The ability of spinning object to resist turning forces is called Angular momentum.
+
+*How can we check whether an invisible object is spinning or not?*
+We can apply a turning force and study its reaction, if it does not resist, then it does not have angular momentum, if it resists, then it has an angular momentum, thus spins.
+
+*How can we design such an experiment for electron?*
+Using the fact that electrons have magnetic moment, we can put them in stronger magnetic field which will try to re-orient the electron by applying torque to it.
+
+The experiment proved that electron is resisting and thus have an angular momentum.
+
+So in summary, we saw that charged electron has both angular and magnetic momentum, which are two characteristic properties for spinning charge, but also we assured ourselves that its not actually spinning.
+
+Its similar to say that an “unknown” animal exists in alien worlds which weights around 1 ton, has a long trunk and big ears and behaves like an elephant, but it is NOT elephant.
+
+And because we don’t live in alien word, our closest approximation would be to call that animal an “elephant” bearing in mind that still, its not an elephant.
+
+
 
 Classical view
 --------------
