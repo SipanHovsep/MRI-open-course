@@ -100,7 +100,7 @@
 .bd-article img.align-center {
   display: block;
   margin: 18px auto;
-  width: 70%;        /* pick one standard width */
+  width: 50%;        /* pick one standard width */
   max-width: 500px;  /* and a sensible cap */
 }
 
