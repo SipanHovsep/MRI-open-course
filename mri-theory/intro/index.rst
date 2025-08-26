@@ -61,7 +61,10 @@ Bohr's model suggested that electrons orbit the nucleus in a discrete, quantized
 moving charges created magnetic field, Otto Stern set the experiment to test whether orbital momentum and the arising magnetic fields
 were quantized or not, with initial expectation that they would not.
 
-.. image:: images/apparatus.png
+.. figure:: images/apparatus.png
+    :align: center
+
+    Apparatus used for experiment
 
 The apparatus was simple, featuring a furnace to heat up silver and emit electrons and inhomogeneous magnetic field to
 generate predicted normal distribution.
@@ -71,11 +74,11 @@ However, they got the contrary they expected and exactly as Bohr's model predict
 
    <div style="display: flex; gap: 20px;">
 
-.. image:: images/expectation.png
-   :width: 100%
+.. figure:: images/expectation.png
+   :alighn: center
 
-.. image:: images/reality.png
-   :width: 100%
+.. figure:: images/reality.png
+   :align: center
 
 .. raw:: html
 
