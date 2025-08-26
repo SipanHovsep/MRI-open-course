@@ -32,18 +32,5 @@ html_theme_options = {
     "use_repository_button": True,   # shows the GitHub icon button
 }
 
-img {
-  display: block;
-  margin: 20px auto;  /* centers + adds vertical spacing */
-  max-width: 60%;     /* keeps all images same size */
-}
-
-.figure p.caption {
-  text-align: center;
-  font-size: 0.9em;
-  margin-top: 8px;
-}
-
-
 
 
