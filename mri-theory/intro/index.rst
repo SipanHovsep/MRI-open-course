@@ -70,19 +70,15 @@ The apparatus was simple, featuring a furnace to heat up silver and emit electro
 generate predicted normal distribution.
 However, they got the contrary they expected and exactly as Bohr's model predicted: quantized distribution.
 
-.. raw:: html
+.. container:: img-grid
 
-   <div style="display: flex; gap: 20px; justify-content: center;">
+   .. figure:: images/expectation.png
 
-.. image:: images/expectation.png
-   :width: 80%
+      Expected distribution.
 
-.. image:: images/reality.png
-   :width: 80%
+   .. figure:: images/reality.png
 
-.. raw:: html
-
-   </div>
+      Experimental result.
 
 
 As in 1922, the spin had not been discovered yet, they concluded their experiment with "Space Quantization" of angular momentum

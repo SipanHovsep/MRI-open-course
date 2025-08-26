@@ -101,7 +101,7 @@
   display: block;
   margin: 18px auto;
   width: 70%;        /* pick one standard width */
-  max-width: 820px;  /* and a sensible cap */
+  max-width: 500px;  /* and a sensible cap */
 }
 
 /* Make figure captions neat and centered */
@@ -122,5 +122,3 @@
   max-width: none;  /* fill the grid cell */
 }
 .bd-article .img-grid .figure { margin: 0; }
-
-
