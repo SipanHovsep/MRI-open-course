@@ -100,8 +100,8 @@
 .bd-article img.align-center {
   display: block;
   margin: 18px auto;
-  width: 100%;        /* pick one standard width */
-  max-width: 150px;  /* and a sensible cap */
+  width: 70%;        /* pick one standard width */
+  max-width: 100px;  /* and a sensible cap */
 }
 
 /* Make figure captions neat and centered */
