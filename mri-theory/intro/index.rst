@@ -86,8 +86,12 @@ which then later, would have become known as spin. The experiment was the first 
 and resulting magnetic moment are "quantized"
 
 
-.. image:: images/result.png
-The image is taken from the Stanford Encyclopedia of Philosophy [1]_.
+.. figure:: images/result.png
+    : :align: center
+
+    The image is taken from the Stanford Encyclopedia of Philosophy [1]_.
+
+
 
 
 .. admonition:: Nobel Prize
