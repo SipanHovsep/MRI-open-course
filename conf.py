@@ -27,3 +27,7 @@ html_theme = "sphinx_book_theme"
 html_static_path = ['_static']
 html_css_files = ['nobel.css']
 
+html_theme_options = {
+    "repository_url": "https://github.com/SipanHovsep/MRI-open-course",
+    "use_repository_button": True,   # shows the GitHub icon button
+}
