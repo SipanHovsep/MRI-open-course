@@ -75,10 +75,10 @@ However, they got the contrary they expected and exactly as Bohr's model predict
    <div style="display: flex; gap: 20px; justify-content: center;">
 
 .. image:: images/expectation.png
-   :width: 45%
+   :width: 80%
 
 .. image:: images/reality.png
-   :width: 45%
+   :width: 80%
 
 .. raw:: html
 
