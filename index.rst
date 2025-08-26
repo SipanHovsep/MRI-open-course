@@ -1,9 +1,9 @@
-Welcome to MR Bazaar!
-=====================
+Welcome to MR Atlas!
+====================
 
-*MR Bazaar* is a Middle-Eastern-bazaar–style gateway to MRI: a place to browse
-models, tutorials, hardware notes, code, and curated external resources. Like a
-traditional bazaar—where you can find almost anything—you’ll find concise
+MR atlas is a place to browse
+models, tutorials, hardware notes, code, and curated external resources. Like an atlas featuring all the notable locations
+you will find concise
 explanations, practical guides, and links to the best open resources.
 
 
