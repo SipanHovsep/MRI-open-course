@@ -287,7 +287,7 @@ The section is taken from the Youtube video [3]_.
 Below is the same spectrum of ethanol taken by a modern NRM machine. We can appreciate the relative accuracy of the
 non-commercial lab NMR scanner they used in 50s.
 
-.. figure:: image/modern.png
+.. figure:: images/modern.png
     :align: center
 
 The image is taken from the Benchtop thoughts [5]_.
