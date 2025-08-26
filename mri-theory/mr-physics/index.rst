@@ -44,7 +44,7 @@ The experiment proved that electron is resisting and thus have an angular moment
 
 \- *Summary*
 
-    we saw that charged electron has both angular and magnetic momentum, which are two characteristic properties for spinning charge, but also we assured ourselves that its not actually spinning.
+    We saw that charged electron has both angular and magnetic momentum, which are two characteristic properties for spinning charge, but also we assured ourselves that its not actually spinning.
     Its similar to say that an “unknown” animal exists in alien worlds which weights around 1 ton, has a long trunk and big ears and behaves like an elephant, but it is NOT elephant.
     And because we don’t live in alien word, our closest approximation would be to call that animal an “elephant” bearing in mind that still, its not an elephant.
 
