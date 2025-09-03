@@ -8,7 +8,7 @@ MR Physics Fundamentals
 Trying to understand the Spin
 ------------------------------
 
-- *What is spin in classical view?*
+\- *What is spinning in classical view?*
 
     Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
 
