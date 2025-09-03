@@ -118,3 +118,9 @@ img {
   max-width: none;  /* fill the grid cell */
 }
 .bd-article .img-grid .figure { margin: 0; }
+
+
+
+.footnote {
+    background-color: transparent !important;
+}
