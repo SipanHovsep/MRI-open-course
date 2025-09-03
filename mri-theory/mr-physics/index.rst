@@ -267,5 +267,6 @@ The line integral of :math:`\mathbf{B}` around a closed loop equals the enclosed
 References
 ==========
 
-.. [1] C. Baird, "What is the shape of an electron?", *Science Questions with Surprising Answers*, West Texas A&M University, Feb 7, 2014. Available at: https://www.wtamu.edu/~cbaird/sq/2014/02/07/what-is-the-shape-of-an-electron/#:~:text=When%20interacting%20like%20a%20particle,Baird.
-
+[1] C. Baird, "What is the shape of an electron?", *Science Questions with Surprising Answers*,
+    West Texas A&M University, Feb 7, 2014.
+    Available at: https://www.wtamu.edu/~cbaird/sq/2014/02/07/what-is-the-shape-of-an-electron/
