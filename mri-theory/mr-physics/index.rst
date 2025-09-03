@@ -40,7 +40,15 @@ Trying to understand the Spin
 
     Using the fact that electrons have magnetic moment, we can put them in stronger magnetic field which will try to re-orient the electron by applying torque to it.
 
-The experiment **proved** that electron is resisting and thus have an angular momentum.
+
+- The key experiment was the **Stern–Gerlach experiment (1922)** <stern-gerlach>`.
+- A beam of silver atoms, each carrying a single unpaired electron, was sent through a non-uniform magnetic field.
+- If electrons behaved like tiny classical spinning balls, the beam should have spread into a continuous pattern.
+- Instead, the beam split cleanly into **two distinct spots** on the detector.
+- This revealed that electrons carry **intrinsic angular momentum (spin)**: when the magnetic field tries to reorient them, they resist the turning force (**torque**), just as spinning objects resist being twisted.
+- Unlike classical objects, however, electrons can only resist in **two discrete orientations**, showing that their angular momentum is **quantized**.
+
+This experiment **proved** that electron is resisting and thus have an angular momentum.
 
 \- *Summary*
 

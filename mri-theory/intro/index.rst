@@ -44,7 +44,7 @@ few fundamental truths about the models.
 Historical precedings
 ^^^^^^^^^^^^^^^^^^^^^
 
-
+.. _stern-gerlach:
 
 Stern-Gerlach Experiment
 ------------------------
