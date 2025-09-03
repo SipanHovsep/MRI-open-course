@@ -8,7 +8,7 @@ MR Physics Fundamentals
 Trying to understand the Spin
 ------------------------------
 
-\- *What is spin in **classical view**?*
+- *What is spin in ``classical view`` ?*
 
     Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
 
@@ -41,7 +41,7 @@ Trying to understand the Spin
     Using the fact that electrons have magnetic moment, we can put them in stronger magnetic field which will try to re-orient the electron by applying torque to it.
 
 
-- The key experiment was the **Stern–Gerlach experiment (1922)** <stern-gerlach>`.
+- The key experiment was the :ref:`**Stern–Gerlach experiment (1922)** <stern-gerlach>`.
 - A beam of silver atoms, each carrying a single unpaired electron, was sent through a non-uniform magnetic field.
 - If electrons behaved like tiny classical spinning balls, the beam should have spread into a continuous pattern.
 - Instead, the beam split cleanly into **two distinct spots** on the detector.
