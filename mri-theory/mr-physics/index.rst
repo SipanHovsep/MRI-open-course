@@ -16,7 +16,7 @@ Trying to understand the Spin
 
 \- *Why electrons can’t spin?*
 
-    Because electrons are fundamental particles, thus they are not made up of any smaller particles. For spinning we need group of particles, therefore electron can’t spin.
+    Electron is a fundamental particle; it is not made out of anything else (according to our current experiments and theories) [1]_.. For spinning we need group of particles, therefore electron can’t spin.
 
 \- *Why its hard to imagine?*
 
@@ -264,5 +264,8 @@ The line integral of :math:`\mathbf{B}` around a closed loop equals the enclosed
    \oint \mathbf{B}\cdot d\boldsymbol{\ell} = \mu_0\, I_{\text{enclosed}}.
 
 
+References
+==========
 
+.. [1] C. Baird, "What is the shape of an electron?", *Science Questions with Surprising Answers*, West Texas A&M University, Feb 7, 2014. Available at: https://www.wtamu.edu/~cbaird/sq/2014/02/07/what-is-the-shape-of-an-electron/#:~:text=When%20interacting%20like%20a%20particle,Baird.
 
