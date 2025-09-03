@@ -8,15 +8,15 @@ MR Physics Fundamentals
 Trying to understand the Spin
 ------------------------------
 
-\- *What is spinning?*
+\- *What is spin in **classical view**?*
 
     Every single particle is moving in a circular path around a common center and they all take the same time to finish the circle. Its important to note that individual particles don’t spin, they move in circular path.
 
-    Therefore, a conclusion can be made that Spin is Emergent property.
+    Therefore, a conclusion can be made that Spin is Emergent property in classical physics.
 
 \- *Why electrons can’t spin?*
 
-    Electron is a fundamental particle; it is not made out of anything else (according to our current experiments and theories) [1]_.. For spinning we need group of particles, therefore electron can’t spin.
+    Electron is a fundamental particle; it is not made out of anything else (according to our current experiments and theories) [1]_.. For spinning we need group of particles, therefore **electron can’t spin**.
 
 \- *Why its hard to imagine?*
 
@@ -40,7 +40,7 @@ Trying to understand the Spin
 
     Using the fact that electrons have magnetic moment, we can put them in stronger magnetic field which will try to re-orient the electron by applying torque to it.
 
-The experiment proved that electron is resisting and thus have an angular momentum.
+The experiment **proved** that electron is resisting and thus have an angular momentum.
 
 \- *Summary*
 
