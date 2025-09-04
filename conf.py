@@ -33,4 +33,10 @@ html_theme_options = {
 }
 
 
+extensions = [
+    "sphinx.ext.mathjax",
+    # other extensions...
+]
+
+
 
