@@ -257,7 +257,7 @@ in their natural, unaligned state.
 Then, an invisible force begins to pull them all toward a single point. Drawn by the magnetic
 pull of a massive football stadium, they file in, take their seats, and orient themselves to
 face the field. This powerful pull and the collective act of alignment represent the application
-of a strong **magnetic field** (**:math:`B_0`**). Now, the once disorganized crowd is in a state
+of a strong **magnetic field** (:math:`B_0`). Now, the once disorganized crowd is in a state
 of quiet, settled **equilibrium**.
 
 Then, the moment arrives. The home team's striker scores a brilliant goal right in front of the
