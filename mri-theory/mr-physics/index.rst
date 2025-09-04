@@ -246,6 +246,48 @@ Signal amplitude is proportional to the transverse magnetization. The received s
 
 **Quadrature detection** measures two orthogonal channels (cosine/sine), improving SNR and resolving frequency sign (since :math:`\cos(f)=\cos(-f)` but :math:`\sin` changes sign). The complex representation combines them as real and imaginary parts.
 
+
+T1/T2 Relaxation: A Stadium Story
+=================================
+
+On a quiet afternoon, countless people wander through a city, each one going their own way,
+facing a random direction. This sprawling, disorganized crowd is our collection of **spins**
+in their natural, unaligned state.
+
+Then, an invisible force begins to pull them all toward a single point. Drawn by the magnetic
+pull of a massive football stadium, they file in, take their seats, and orient themselves to
+face the field. This powerful pull and the collective act of alignment represent the application
+of a strong **magnetic field** (**:math:`B_0`**). Now, the once disorganized crowd is in a state
+of quiet, settled **equilibrium**.
+
+Then, the moment arrives. The home team's striker scores a brilliant goal right in front of the
+north stand. This specific, targeted event is like sending a focused **RF pulse excitation**.
+In an instant, only the fans in that section erupt with energy, leaping to their feet and clapping
+in a perfect, unified rhythm with a beating drum. The rest of the stadium remains seated, silent.
+By only **exciting** a specific part of the crowd, we know exactly where the **signal**—or the
+**MR signal**—is coming from. This ability to trigger a response from a precise location is how we
+build a full **image**, slice by slice.
+
+But the perfect synchronization can't last. The drum stops, and within a few seconds, the clapping
+starts to fall apart. Fans can't maintain the perfect rhythm for long, and their claps begin to drift,
+losing their synchronized beat. The time it takes for this unified, organized rhythm to completely fall
+apart is the story of **T2 relaxation**. It's a quick, frantic process of losing **phase coherence**.
+
+At the same time, another story is unfolding. After the excitement of the goal, the fans eventually start
+to sit back down. But this is a much slower process. One by one, then in small groups, they settle back into
+their seats. The time it takes for the entire stadium to fully return to its quiet, seated state is the story
+of **T1 relaxation**.
+
+These two stories happen independently and at very different speeds. The fans' clapping will become
+completely disorganized (**T2 relaxation**) in a matter of seconds, long before every single person has
+had a chance to fully sit back down and settle in their seat (**T1 relaxation**).
+
+This is the key takeaway: **T2** is always faster than **T1**, and they are two separate processes that
+work to bring the **spins** back to their original state.
+
+
+
+
 Magnetism
 ---------
 
