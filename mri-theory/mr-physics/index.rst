@@ -259,7 +259,7 @@ in their natural, unaligned state.
    :align: center
    :scale: 80
 
-   Equilibrium state.
+   Unaligned state.
 
 Then, an invisible force begins to pull them all toward a single point. Drawn by the magnetic
 pull of a massive football stadium, they file in, take their seats, and orient themselves to
@@ -267,8 +267,24 @@ face the field. This powerful pull and the collective act of alignment represent
 of a strong **magnetic field** (:math:`B_0`). Now, the once disorganized crowd is in a state
 of quiet, settled **equilibrium**.
 
+.. figure:: images/img_1.png
+   :alt: Descriptive alt text
+   :align: center
+   :scale: 80
+
+   Equilibrium state.
+
+
 Then, the moment arrives. The home team's striker scores a brilliant goal right in front of the
 north stand. This specific, targeted event is like sending a focused **RF pulse excitation**.
+
+.. figure:: images/img_2.png
+   :alt: Descriptive alt text
+   :align: center
+   :scale: 80
+
+   Exciting event (goal for people, RF pulse for spins).
+
 In an instant, only the fans in that section erupt with energy, leaping to their feet and clapping
 in a perfect, unified rhythm with a beating drum. The rest of the stadium remains seated, silent.
 By only **exciting** a specific part of the crowd, we know exactly where the **signal**—or the
@@ -280,10 +296,27 @@ starts to fall apart. Fans can't maintain the perfect rhythm for long, and their
 losing their synchronized beat. The time it takes for this unified, organized rhythm to completely fall
 apart is the story of **T2 relaxation**. It's a quick, frantic process of losing **phase coherence**.
 
+.. figure:: images/img_3.png
+   :alt: Descriptive alt text
+   :align: center
+   :scale: 80
+
+   T2 relaxation
+
+
 At the same time, another story is unfolding. After the excitement of the goal, the fans eventually start
 to sit back down. But this is a much slower process. One by one, then in small groups, they settle back into
 their seats. The time it takes for the entire stadium to fully return to its quiet, seated state is the story
 of **T1 relaxation**.
+
+.. figure:: images/img_3.png
+   :alt: Descriptive alt text
+   :align: center
+   :scale: 80
+
+   T1 relaxation.
+
+
 
 These two stories happen independently and at very different speeds. The fans' clapping will become
 completely disorganized (**T2 relaxation**) in a matter of seconds, long before every single person has
