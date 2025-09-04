@@ -296,7 +296,7 @@ starts to fall apart. Fans can't maintain the perfect rhythm for long, and their
 losing their synchronized beat. The time it takes for this unified, organized rhythm to completely fall
 apart is the story of **T2 relaxation**. It's a quick, frantic process of losing **phase coherence**.
 
-.. figure:: images/img_3.png
+.. figure:: images/img_4.png
    :alt: Descriptive alt text
    :align: center
    :scale: 80
