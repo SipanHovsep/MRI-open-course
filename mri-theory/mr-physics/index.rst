@@ -248,11 +248,18 @@ Signal amplitude is proportional to the transverse magnetization. The received s
 
 
 T1/T2 Relaxation: A Stadium Story
-=================================
+---------------------------------
 
 On a quiet afternoon, countless people wander through a city, each one going their own way,
 facing a random direction. This sprawling, disorganized crowd is our collection of **spins**
 in their natural, unaligned state.
+
+.. figure:: images/img.png
+   :alt: Descriptive alt text
+   :align: center
+   :scale: 80
+
+   Equilibrium state.
 
 Then, an invisible force begins to pull them all toward a single point. Drawn by the magnetic
 pull of a massive football stadium, they file in, take their seats, and orient themselves to
