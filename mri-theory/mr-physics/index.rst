@@ -360,3 +360,7 @@ References
 [1] C. Baird, "What is the shape of an electron?", *Science Questions with Surprising Answers*,
     West Texas A&M University, Feb 7, 2014.
     Available at: https://www.wtamu.edu/~cbaird/sq/2014/02/07/what-is-the-shape-of-an-electron/
+
+[2] Danish Research Centre for Magnetic Resonance (DRCMR), "MR resources and information,"
+    DRCMR, 2025.
+    Available at: https://www.drcmr.dk/mr
