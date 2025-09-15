@@ -23,7 +23,7 @@ Next, the **transmit/receive (TR) switch** is built to alternate between excitin
 
 Shielding is added to protect the switch from external noise and unwanted coupling.
 
-.. image:: images/i7.jpg
+.. figure:: images/i7.jpg
    :align: center
    :width: 400
    :alt: Shielding TR switch
@@ -32,7 +32,7 @@ Shielding is added to protect the switch from external noise and unwanted coupli
 
 The electronics chain is then expanded with **filters, amplifiers, and a regulated power supply**, ensuring clean operation.
 
-.. image:: images/i7b.jpg
+.. figure:: images/i7b.jpg
    :align: center
    :width: 400
    :alt: Noise filters and amplifiers
@@ -41,7 +41,7 @@ The electronics chain is then expanded with **filters, amplifiers, and a regulat
 
 Once complete, the RF assembly is installed into the scanner.
 
-.. image:: images/i8.jpg
+.. figure:: images/i8.jpg
    :align: center
    :width: 400
    :alt: RF switch placement
@@ -50,7 +50,7 @@ Once complete, the RF assembly is installed into the scanner.
 
 With everything connected, the system is ready.
 
-.. image:: images/i9.jpg
+.. figure:: images/i9.jpg
    :align: center
    :width: 400
    :alt: Whole setup
@@ -60,7 +60,7 @@ With everything connected, the system is ready.
 
 The first **Free Induction Decay (FID)** signal marks the successful operation of the low-field setup.
 
-.. image:: images/i10.jpg
+.. figure:: images/i10.jpg
    :align: center
    :width: 400
    :alt: FID signal
