@@ -3,7 +3,7 @@ Magnet Build
 
 The foundation of the scanner begins with the magnet. Strong N48 neodymium magnets are carefully positioned into circular rings.
 
-.. image:: images/i1.jpg
+.. figure:: images/i1.jpg
    :align: center
    :width: 400
    :alt: Placing magnets in a ring
