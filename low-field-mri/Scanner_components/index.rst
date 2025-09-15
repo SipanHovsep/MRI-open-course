@@ -8,12 +8,6 @@ Scanner components
    Magnet/index
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Magnetic field mapper
-
-   MFMR/index
-
 
 .. toctree::
    :maxdepth: 2
