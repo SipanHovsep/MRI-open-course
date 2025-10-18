@@ -1,5 +1,6 @@
+##############################################
 1. Introduction to MRI Spectroscopy
-##################################
+##############################################
 
 What is MRI Spectroscopy?
 =========================
@@ -26,9 +27,11 @@ Key Concepts
    - Choline (Cho): cell membrane turnover.
    - Lactate: anaerobic metabolism.
 
+----
 
+##############################################
 2. Data Acquisition and Conversion
-##################################
+##############################################
 
 Overview
 ========
@@ -67,14 +70,16 @@ Procedure
 Key Points
 ----------
 
-* The function ``io_loadspec_rda`` reads the RDA file.
-* The function ``io_writelcm`` writes the data into the `.RAW` format needed by LCModel.
+* The function ``io_loadspec_rda`` reads the RDA file.  
+* The function ``io_writelcm`` writes the data into the `.RAW` format needed by LCModel.  
 * Adjust the TE (echo time) as per your experimental settings.  
   - Example: Glutamate/Glutamine → neurotransmitter function.
 
+----
 
+##############################################
 3. Generating the Basis File
-############################
+##############################################
 
 Why a Basis File?
 =================
@@ -130,9 +135,11 @@ Simulation Using MRSCloud
 3. **Download and Extract**  
    Submit the simulation. Once processed, download the ZIP file containing the simulated basis set. Unzip the file and select the file with the `.BASIS` extension. This file will be used later in LCModel.
 
+----
 
+##############################################
 4. LCModel Control File and Running LCModel
-###########################################
+##############################################
 
 Control File Overview
 =====================
@@ -177,9 +184,11 @@ Running LCModel from the Terminal
 
 Compile and run LCModel from the terminal (without the GUI) using the compiled binary. This method significantly speeds up processing and allows for easier batch processing. To recompile from source, refer to the LCModel manual and available online instructions. The recommended practice is to write valid control files and run LCModel in terminal mode.
 
+----
 
+##############################################
 5. Organizing the Main Folder
-#############################
+##############################################
 
 Folder Structure
 ================
@@ -198,9 +207,11 @@ Keeping these files organized in one location simplifies batch processing and mi
    :alt: LCModel folder structure
    :align: center
 
+----
 
+##############################################
 6. Additional Notes and Recommendations
-#######################################
+##############################################
 
 Best Practices
 ==============
@@ -230,9 +241,11 @@ Best Practices
    * Resource management.
    * Processing time optimization.
 
+----
 
+##############################################
 7. LCModel Manual
-#################
+##############################################
 
 This is the official LCModel manual.
 
