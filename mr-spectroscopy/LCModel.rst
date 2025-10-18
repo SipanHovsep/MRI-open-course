@@ -69,7 +69,7 @@ Create a main folder (e.g., ``/Users/SH7437/Desktop/LC``) to host all files requ
 
 Keeping these files organized in one location simplifies batch processing and minimizes errors during execution.
 
-.. image:: ../graphic/main.png
+.. image:: graphic/main.png
    :alt: LCModel folder structure
    :align: center
 
