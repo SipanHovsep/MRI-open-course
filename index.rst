@@ -59,7 +59,10 @@ These capabilities make MRI not only different but also irreplaceable for many a
    :caption: MR spectroscopy
    :hidden:
 
-   mr-spectroscopy/index
+   mr-spectroscopy/intro
+   mr-spectroscopy/data_acquisition
+   mr-spectroscopy/basis_file
+   mr-spectroscopy/LCModel
 
 .. toctree::
    :maxdepth: 2
