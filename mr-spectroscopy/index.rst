@@ -35,7 +35,7 @@ Overview
 
 MR spectroscopy data is initially exported from the scanner as `.rda` files. However, LCModel requires data in `.RAW` format. Converting from `.rda` to `.RAW` involves more than simply renaming the file—it requires reading the data and writing it out in a compatible format.
 
-.. image:: ../graphic/conversion_flowchart.png
+.. image:: graphic/conversion_flowchart.png
    :alt: Flowchart showing the conversion process from .rda to .RAW format
    :align: center
 
@@ -81,7 +81,7 @@ Why a Basis File?
 
 The basis file is a simulated library of metabolite spectra that LCModel uses to fit your experimental data. It defines the expected spectral signatures of individual metabolites and is crucial for accurate quantification.
 
-.. image:: ../graphic/basis.png
+.. image:: graphic/basis.png
    :alt: Example of a basis file showing simulated metabolite spectra
    :align: center
 
@@ -101,29 +101,29 @@ Simulation Using MRSCloud
        * **Editing:** unEdited
        * **TE:** 30 ms
 
-.. image:: ../graphic/mrscloud1.png
+.. image:: graphic/mrscloud1.png
    :alt: MRSCloud configuration interface
    :align: center
 
-.. image:: ../graphic/mrscloud2.png
-   :alt: MRSCloud configuration interface
-   :align: center
-
-|
-
-.. image:: ../graphic/mrscloud3.png
+.. image:: graphic/mrscloud2.png
    :alt: MRSCloud configuration interface
    :align: center
 
 |
 
-.. image:: ../graphic/mrscloud5.png
+.. image:: graphic/mrscloud3.png
    :alt: MRSCloud configuration interface
    :align: center
 
 |
 
-.. image:: ../graphic/mrscloud5.png
+.. image:: graphic/mrscloud5.png
+   :alt: MRSCloud configuration interface
+   :align: center
+
+|
+
+.. image:: graphic/mrscloud5.png
    :alt: MRSCloud configuration interface
    :align: center
 
@@ -194,7 +194,7 @@ Create a main folder (e.g., ``/Users/SH7437/Desktop/LC``) to host all files requ
 
 Keeping these files organized in one location simplifies batch processing and minimizes errors during execution.
 
-.. image:: ../graphic/main.png
+.. image:: graphic/main.png
    :alt: LCModel folder structure
    :align: center
 
@@ -236,4 +236,4 @@ Best Practices
 
 This is the official LCModel manual.
 
-:download:`Download LCModel Manual (PDF) <../files/lcmodel_manual.pdf>`
+:download:`Download LCModel Manual (PDF) <files/lcmodel_manual.pdf>`
