@@ -6,7 +6,7 @@ Why a Basis File?
 
 The basis file is a simulated library of metabolite spectra that LCModel uses to fit your experimental data. It defines the expected spectral signatures of individual metabolites and is crucial for accurate quantification.
 
-.. image:: ../graphic/basis.png
+.. image:: graphic/basis.png
    :alt: Example of a basis file showing simulated metabolite spectra
    :align: center
 
@@ -26,29 +26,29 @@ Simulation Using MRSCloud
        * **Editing:** unEdited
        * **TE:** 30 ms
 
-.. image:: ../graphic/mrscloud1.png
+.. image:: graphic/mrscloud1.png
    :alt: MRSCloud configuration interface
    :align: center
 
-.. image:: ../graphic/mrscloud2.png
-   :alt: MRSCloud configuration interface
-   :align: center
-
-|
-
-.. image:: ../graphic/mrscloud3.png
+.. image:: graphic/mrscloud2.png
    :alt: MRSCloud configuration interface
    :align: center
 
 |
 
-.. image:: ../graphic/mrscloud5.png
+.. image:: graphic/mrscloud3.png
    :alt: MRSCloud configuration interface
    :align: center
 
 |
 
-.. image:: ../graphic/mrscloud5.png
+.. image:: graphic/mrscloud5.png
+   :alt: MRSCloud configuration interface
+   :align: center
+
+|
+
+.. image:: graphic/mrscloud5.png
    :alt: MRSCloud configuration interface
    :align: center
 
