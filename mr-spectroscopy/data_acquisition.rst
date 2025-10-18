@@ -42,3 +42,10 @@ Key Points
 * The function ``io_writelcm`` writes the data into the `.RAW` format needed by LCModel.  
 * Adjust the TE (echo time) as per your experimental settings.  
   - Example: Glutamate/Glutamine → neurotransmitter function.
+
+Raw Phantom Data
+----------------
+
+
+* :download:`Suppressed Phantom Data <graphic/suppressed.rda>`
+* :download:`Unsuppressed Phantom Data <graphic/unsuppressed.rda>`
