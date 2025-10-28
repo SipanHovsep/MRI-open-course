@@ -329,7 +329,7 @@ work to bring the **spins** back to their original state.
 Flushing Analogy
 =================
 
-Relaxation in MRI can be understood through a simple and intuitive analogy — the toilet.  
+Relaxation in MRI can be understood through a simple and intuitive analogy — the toilet [3].  
 The water in the **tank** represents the **longitudinal magnetization (T₁)**, while the water in the **bowl** represents the **transverse magnetization (T₂)**. The **flush** acts as the **RF excitation pulse**, transferring water from the tank to the bowl, just like how an excitation pulse tips the net magnetization into the transverse plane and produces a measurable signal.
 
 As time passes, the bowl drains — illustrating **T₂ relaxation**, where the transverse magnetization decays — while the tank refills — illustrating **T₁ recovery**, where longitudinal magnetization regrows.  
@@ -343,6 +343,7 @@ When the toilet is flushed again, new water flows from the tank to the bowl, rep
         <source src="../../_static/analogy.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+
 
 
 
@@ -382,3 +383,7 @@ References
 [2] Danish Research Centre for Magnetic Resonance (DRCMR), "MR resources and information,"
     DRCMR, 2025.
     Available at: https://www.drcmr.dk/mr
+
+[3] A. Macovski, “Relaxation and the flushing toilet,” *Proceedings of the International Society for Magnetic Resonance in Medicine (ISMRM) Lauterbur Lecture*, 2009.  
+    Available at: https://ieeexplore.ieee.org/document/8962390
+
