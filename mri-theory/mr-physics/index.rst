@@ -326,6 +326,23 @@ This is the key takeaway: **T2** is always faster than **T1**, and they are two 
 work to bring the **spins** back to their original state.
 
 
+Flushing Analogy
+=================
+
+Relaxation in MRI can be understood through a simple and intuitive analogy — the toilet.  
+The water in the **tank** represents the **longitudinal magnetization (T₁)**, while the water in the **bowl** represents the **transverse magnetization (T₂)**. The **flush** acts as the **RF excitation pulse**, transferring water from the tank to the bowl, just like how an excitation pulse tips the net magnetization into the transverse plane and produces a measurable signal.
+
+As time passes, the bowl drains — illustrating **T₂ relaxation**, where the transverse magnetization decays — while the tank refills — illustrating **T₁ recovery**, where longitudinal magnetization regrows.  
+When the toilet is flushed again, new water flows from the tank to the bowl, repeating the same process. This analogy helps visualize how magnetization exchanges between the two components after each excitation.
+
+.. raw:: html
+
+   <video width="600" controls loop autoplay muted>
+     <source src="animations/analogy.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
+
+
 
 
 Magnetism
