@@ -108,9 +108,20 @@ Best Practices
 
 ----
 
-LCModel Manual
-==============
 
-This is the official LCModel manual.
+Expected Outcome
+================
 
-:download:`Download LCModel Manual (PDF) <../files/lcmodel_manual.pdf>`
+.. image:: graphic/image.png
+   :alt: LCModel Output of Proton MR Spectroscopy
+   :align: center
+
+
+   **LCModel Output of ¹H-MRS.** The fitted model (red) is overlaid on the
+   experimental spectrum (black), enabling metabolite quantification.
+   Prominent peaks: NAA (~2.0 ppm), Cr (~3.0 ppm), Cho (~3.2 ppm),
+   mI (~3.5 ppm), Glu (~2.3 ppm), and Lac (~1.3 ppm). Low residual and a
+   high S/N indicate a good fit and reliable concentrations.
+
+
+
