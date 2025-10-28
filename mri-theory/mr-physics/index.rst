@@ -335,12 +335,14 @@ The water in the **tank** represents the **longitudinal magnetization (T₁)**, 
 As time passes, the bowl drains — illustrating **T₂ relaxation**, where the transverse magnetization decays — while the tank refills — illustrating **T₁ recovery**, where longitudinal magnetization regrows.  
 When the toilet is flushed again, new water flows from the tank to the bowl, repeating the same process. This analogy helps visualize how magnetization exchanges between the two components after each excitation.
 
-.. raw:: html
+.. only:: html
 
-   <video width="600" controls loop autoplay muted>
-     <source src="animations/analogy.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   .. raw:: html
+
+      <video width="600" controls loop muted playsinline preload="metadata">
+        <source src="../_static/analogy.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
 
 
 
