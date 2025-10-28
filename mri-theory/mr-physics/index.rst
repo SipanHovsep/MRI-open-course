@@ -340,11 +340,12 @@ When the toilet is flushed again, new water flows from the tank to the bowl, rep
 
    .. raw:: html
 
-      <video width="600" controls loop muted playsinline preload="metadata">
-        <source src="../../_static/analogy.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-
+      <div style="text-align:center;">
+        <video width="600" controls loop muted playsinline preload="metadata">
+          <source src="../../_static/analogy.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
 
 
 
