@@ -49,3 +49,12 @@ Raw Phantom Data
 
 * :download:`Suppressed Phantom Data <graphic/suppressed.rda>`
 * :download:`Unsuppressed Phantom Data <graphic/unsuppressed.rda>`
+
+
+LCModel Manual
+==============
+
+This is the official LCModel manual.
+
+:download:`Download LCModel Manual (PDF) <../files/lcmodel_manual.pdf>`
+
