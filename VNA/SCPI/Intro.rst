@@ -209,7 +209,7 @@ Visualization of Error Terms
 
 After extracting the complex coefficients, we can visualize the VNA's internal state. These plots provide insight into the quality of the calibration and the physical characteristics of the test setup.
 
-.. figure:: media/Autocal.jpg
+.. figure:: media/Autocal.png
    :align: center
    :alt: VNA Calibration Error Terms
    :width: 800px
