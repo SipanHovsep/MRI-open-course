@@ -201,3 +201,24 @@ By adding the two sliced arrays together with the ``1j`` multiplier, NumPy creat
 single array of **complex128** objects. This allows you to calculate Magnitude 
 (``np.abs()``) and Phase (``np.angle()``) directly, which is essential for analyzing 
 systematic errors at high frequencies like 18 GHz.
+
+
+
+Visualization of Error Terms
+============================
+
+After extracting the complex coefficients, we can visualize the VNA's internal state. These plots provide insight into the quality of the calibration and the physical characteristics of the test setup.
+
+.. figure:: media/Autocal.jpg
+   :align: center
+   :alt: VNA Calibration Error Terms
+   :width: 800px
+
+   **Figure 1**: Log-Magnitude plots of Directivity and Source Match, alongside a Smith Chart representation of Reflection Tracking.
+
+Data Interpretation
+-------------------
+
+* **Directivity (ED)**: Represents the leakage within the VNA. A value moving from -50 dB toward -15 dB at 18 GHz is typical, showing reduced isolation at higher frequencies.
+* **Source Match (ES)**: Shows the reflections looking back into the VNA port. The values between -35 dB and -18 dB indicate a healthy match for a standard cable assembly.
+* **Reflection Tracking (ER)**: The "spiral" seen on the Smith Chart is the result of the phase delay introduced by the cables and PCB traces. At 18 GHz, the signal undergoes multiple full rotations of phase, which the VNA mathematically tracks to shift the measurement plane to your device.
