@@ -151,8 +151,6 @@ When the VNA executes ``CDATa?``, it returns a single, massive string of comma-s
 * ``D_raw.split(',')``: Breaks the string into a Python list of individual substrings.
 * ``np.array(..., dtype=float)``: Converts those substrings into 64-bit floating-point numbers.
 
-At this stage, the data is **"Flat"**. If you have 1001 frequency points, the array has a 
-length of 2002, containing alternating Real and Imaginary values.
 
 2. De-interleaving with Slicing
 -------------------------------
