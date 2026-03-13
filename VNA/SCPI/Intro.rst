@@ -99,6 +99,7 @@ and **Reflection Tracking** coefficients.
 
    import pyvisa
    import numpy as np
+   import skrf as rf
 
    rm = pyvisa.ResourceManager()
    vna = rm.open_resource('TCPIP0::10.0.0.5::hislip0::INSTR')
@@ -134,6 +135,33 @@ and **Reflection Tracking** coefficients.
    print(f"First Directivity Point: {D_complex[0]}")
 
    vna.write("SENSe1:SWEep:MODE CONTinuous")
+
+   #Converting error terms to Network objects for visualizing them using Sci kit RF
+
+   freq = rf.Frequency(start=100e6, stop=18e9, npoints=1601, unit='Hz')
+   ntwk_D = rf.Network(frequency=freq, s=D_complex, name='Directivity')
+   ntwk_S = rf.Network(frequency=freq, s=S_complex, name='Source Match')
+   ntwk_R = rf.Network(frequency=freq, s=R_complex, name='Refl Tracking')
+   
+   
+   plt.figure(figsize=(15, 5))
+   
+   plt.subplot(1, 3, 1)
+   ntwk_D.plot_s_db()
+   plt.title('Directivity (ED)')
+   
+   plt.subplot(1, 3, 2)
+   ntwk_S.plot_s_db()
+   plt.title('Source Match (ES)')
+   
+   plt.subplot(1, 3, 3)
+   ntwk_R.plot_s_smith()
+   plt.title('Reflection Tracking (ER)\n(Smith Chart)')
+   
+   plt.tight_layout()
+   plt.show()
+
+
    vna.close()
    rm.close()
 
