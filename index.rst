@@ -72,3 +72,15 @@ These capabilities make MRI not only different but also irreplaceable for many a
    low-field-mri/Scanner_components/index
    low-field-mri/open-source-resources/index
    low-field-mri/open-source-projects/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting started with VNA
+   :hidden:
+
+   .. toctree::
+   :maxdepth: 2
+   :caption: Low field MRI
+   :hidden:
+
+   VNA/SCPI/Intro.rst
