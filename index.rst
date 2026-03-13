@@ -83,5 +83,5 @@ These capabilities make MRI not only different but also irreplaceable for many a
    :caption: Low field MRI
    :hidden:
 
-   VNA/SCPI/Auto/Intro.rst
-   VNA/SCPI/Manual/Intro.rst
+   VNA/SCPI/Auto/index.rst
+   VNA/SCPI/Manual/index.rst
