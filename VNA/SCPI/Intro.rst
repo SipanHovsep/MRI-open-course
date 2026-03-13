@@ -70,6 +70,9 @@ to 18 GHz, and triggers the internal AutoCal routine.
    vna.close()
    rm.close()
 
+   # Later load with
+   #vna.write("MMEMory:LOAD:CORRection 1, 'AutoCal_Port1.cal'")
+
 Command Breakdown
 =================
 
