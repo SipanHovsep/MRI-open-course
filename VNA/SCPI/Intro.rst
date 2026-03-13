@@ -51,7 +51,7 @@ to 18 GHz, and triggers the internal AutoCal routine.
    # Set frequency range: 100 MHz to 18 GHz
    vna.write("SENSe1:FREQuency:STARt 100e6")
    vna.write("SENSe1:FREQuency:STOP 18e9")
-   vna.write("SENSe1:SWEep:POINts 1001")
+   vna.write("SENSe1:SWEep:POINts 1601")
 
    # Run autocal on port 1 using factory characterization ('')
    # The VNA automatically detects the CalUnit connected to Port 1
